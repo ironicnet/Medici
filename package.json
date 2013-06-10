@@ -12,6 +12,7 @@
     "ImageMagick": "*"
     },
   "devDependencies": {
-    "ImageMagick": "*"
+    "ImageMagick": "*",
+    "tmdbapi": "*"
   }
 }
